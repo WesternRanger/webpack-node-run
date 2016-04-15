@@ -48,4 +48,4 @@ promise.then(function(){
 },function(){
     console.log('呜呜，失败了');
 });
-let aa = 2;
+let www = 8;
